@@ -4,9 +4,7 @@ The purpose of this page is to document all things I am learning about various t
 
 ### Below is a list of my findings on various technologies
 
--[Ansible](https://phanirajgoutham.github.io/Ansible.md)
-
-You can use the [editor on GitHub](https://github.com/phanirajgoutham/phanirajgoutham.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- [Ansible](https://phanirajgoutham.github.io/edit/master/Ansible.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
